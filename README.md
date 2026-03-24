@@ -19,7 +19,9 @@ This project is an interactive Power BI dashboard that provides insights into em
 
 ## 📷 Dashboard Preview
 
-(Add image after uploading it)
+![Employees Dashboard](Gender.png)
+
+![Department View](buildings.png)
 
 ## 📊 Key Insights
 
